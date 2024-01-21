@@ -74,3 +74,11 @@ func NewClient(link string) *http.Client {
 		},
 	}
 }
+
+func Link2Config(link string) *config.Config {
+	c, err := config.Link2Config(link)
+	if err != nil {
+		return nil
+	}
+	return c
+}
