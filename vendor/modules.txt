@@ -1,0 +1,79 @@
+# github.com/Dreamacro/go-shadowsocks2 v0.1.7
+## explicit; go 1.15
+github.com/Dreamacro/go-shadowsocks2/core
+github.com/Dreamacro/go-shadowsocks2/shadowaead
+github.com/Dreamacro/go-shadowsocks2/shadowstream
+# github.com/gofrs/uuid v4.0.0+incompatible
+## explicit
+github.com/gofrs/uuid
+# github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
+## explicit
+# github.com/gorilla/websocket v1.4.2
+## explicit; go 1.12
+github.com/gorilla/websocket
+# github.com/miekg/dns v1.1.40
+## explicit; go 1.12
+github.com/miekg/dns
+# github.com/xxf098/lite-proxy v0.8.0
+## explicit; go 1.17
+github.com/xxf098/lite-proxy/common
+github.com/xxf098/lite-proxy/common/cache
+github.com/xxf098/lite-proxy/common/picker
+github.com/xxf098/lite-proxy/common/pool
+github.com/xxf098/lite-proxy/common/structure
+github.com/xxf098/lite-proxy/config
+github.com/xxf098/lite-proxy/constant
+github.com/xxf098/lite-proxy/dns
+github.com/xxf098/lite-proxy/log
+github.com/xxf098/lite-proxy/outbound
+github.com/xxf098/lite-proxy/stats
+github.com/xxf098/lite-proxy/transport/dialer
+github.com/xxf098/lite-proxy/transport/resolver
+github.com/xxf098/lite-proxy/transport/socks5
+github.com/xxf098/lite-proxy/transport/ssr/obfs
+github.com/xxf098/lite-proxy/transport/ssr/protocol
+github.com/xxf098/lite-proxy/transport/ssr/tools
+github.com/xxf098/lite-proxy/transport/trojan
+github.com/xxf098/lite-proxy/transport/vmess
+github.com/xxf098/lite-proxy/tunnel
+github.com/xxf098/lite-proxy/utils
+# golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
+## explicit; go 1.11
+golang.org/x/crypto/chacha20
+golang.org/x/crypto/chacha20poly1305
+golang.org/x/crypto/ed25519
+golang.org/x/crypto/ed25519/internal/edwards25519
+golang.org/x/crypto/hkdf
+golang.org/x/crypto/internal/subtle
+golang.org/x/crypto/poly1305
+# golang.org/x/image v0.0.0-20210220032944-ac19c3e999fb
+## explicit; go 1.12
+# golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
+## explicit; go 1.11
+golang.org/x/net/bpf
+golang.org/x/net/http/httpguts
+golang.org/x/net/http2
+golang.org/x/net/http2/hpack
+golang.org/x/net/idna
+golang.org/x/net/internal/iana
+golang.org/x/net/internal/socket
+golang.org/x/net/ipv4
+golang.org/x/net/ipv6
+# golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+## explicit
+golang.org/x/sync/singleflight
+# golang.org/x/sys v0.0.0-20210403161142-5e06dd20ab57
+## explicit; go 1.12
+golang.org/x/sys/cpu
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/text v0.3.5
+## explicit; go 1.11
+golang.org/x/text/secure/bidirule
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+# gopkg.in/yaml.v2 v2.4.0
+## explicit; go 1.15
+gopkg.in/yaml.v2
